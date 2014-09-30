@@ -1,6 +1,14 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,700,300);
+
+$font-family-sans-serif: "Oswald", "Menlo", "Monaco","sans-serif";
 $body-bg:	#1abc9c;
 $brand-success: #2c3e50;
 $navbar-default-bg:	#ecf0f1;
 $navbar-default-link-color:	#16a085;
 
+
 @import 'bootstrap';
+
+.center{
+	text-align:center;
+}
